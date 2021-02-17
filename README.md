@@ -1,4 +1,4 @@
-# comsoal linebalancing
+# Comsoal Linebalancing
 ### 제조공정에서 조립라인의 최적 균형을 구하는 알고리즘 중 하나인 Comsoal(Computer Method of Sequencing Operations for Assembly Line) 방법
 
 ## 절차
